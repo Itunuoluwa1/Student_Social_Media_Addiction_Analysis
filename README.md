@@ -70,8 +70,16 @@ Instagram usage shows the strongest negative impact on academic performance (172
 - **Avg Addiction Score:** 6.44 (moderate–high addiction).  
 - **Avg Mental Health Score:** 6.23 (slightly below healthy threshold).  
 - **Avg Sleep Hours:** 6.87 hours per night.  
-- **Academic Impact:** 64.3% of students believe social media negatively affects their academic performance.  
-
+- **Academic Impact:** 64.3% of students believe social media negatively affects their academic performance. I got this using the DAX function:
+```DAX
+% Affected Academically = 
+FORMAT(
+    DIVIDE(
+        COUNTROWS(FILTER(Students_Social_Media_Addiction, Students_Social_Media_Addiction[Affects_Academic_Performance] = "Yes")),
+        COUNTROWS(Students_Social_Media_Addiction), 0),
+        "0.0%"
+)
+```
 **Additional Observations:**  
 - High school students show the highest addiction score (7.50), followed by undergraduates (6.54).  
 - Single students exhibit the highest addiction levels (6.60), while those in relationships report slightly lower scores (6.04).  
