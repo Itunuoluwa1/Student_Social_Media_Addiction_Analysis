@@ -58,7 +58,7 @@ It seeks to understand how digital habits influence overall wellbeing and learni
 
 ### Q1. Which social media platforms affect academics the most?  
 Instagram usage shows the strongest negative impact on academic performance (172 “Yes” responses), followed by TikTok (144 “Yes”).  
-<h3 style = "text-align:center;">Platform Effect</h3>
+#### Platform Effect
 ![Platforms Effect](images/platform-effetcs.png)  
 
 ---
