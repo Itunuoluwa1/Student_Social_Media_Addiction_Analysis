@@ -84,7 +84,7 @@ FORMAT(
 - Single students exhibit the highest addiction levels (6.60), while those in relationships report slightly lower scores (6.04).  
 - WhatsApp users have the highest average addiction score (7.42).  
 
-#### DASHBOARD IMAGE
+<p style = "text-align:center;">#### DASHBOARD IMAGE</p>
 ![Dashboard](images/dashboard.png)  
 ---
 
