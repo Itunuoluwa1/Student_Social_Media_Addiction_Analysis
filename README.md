@@ -57,13 +57,12 @@ It seeks to understand how digital habits influence overall wellbeing and learni
 ## 📊 Key Findings  
 
 ### Q1. Which social media platforms affect academics the most?  
-![Platforms Effect](images/platform-effetcs.png)  
 Instagram usage shows the strongest negative impact on academic performance (172 “Yes” responses), followed by TikTok (144 “Yes”).  
+![Platforms Effect](images/platform-effetcs.png)  
 
 ---
 
 ### Q2–Q7. Behavioral and Academic Patterns  
-![Dashboard](images/dashboard.png)  
 
 **Key insights from the Power BI dashboard:**  
 - **Avg Daily Usage:** 4.92 hours per student.  
@@ -85,14 +84,16 @@ FORMAT(
 - Single students exhibit the highest addiction levels (6.60), while those in relationships report slightly lower scores (6.04).  
 - WhatsApp users have the highest average addiction score (7.42).  
 
+![Dashboard](images/dashboard.png)  
 ---
 
 ### Q8. Gender Differences in Addiction  
-![Female Slicer](images/femaleSlicer.png)  
-![Male Slicer](images/maleSlicer.png)  
 
 Addiction tendencies are generally higher among **female students**.  
 Male students tend to have slightly higher **average sleep hours** and **mental health scores**, indicating lower addiction effects overall.  
+
+![Female Slicer](images/femaleSlicer.png)  
+![Male Slicer](images/maleSlicer.png)  
 
 ---
 
