@@ -84,6 +84,7 @@ FORMAT(
 - Single students exhibit the highest addiction levels (6.60), while those in relationships report slightly lower scores (6.04).  
 - WhatsApp users have the highest average addiction score (7.42).  
 
+#### DASHBOARD IMAGE
 ![Dashboard](images/dashboard.png)  
 ---
 
@@ -92,7 +93,9 @@ FORMAT(
 Addiction tendencies are generally higher among **female students**.  
 Male students tend to have slightly higher **average sleep hours** and **mental health scores**, indicating lower addiction effects overall.  
 
+#### FEMALE SLICER EFFECT ON DASHBOARD
 ![Female Slicer](images/femaleSlicer.png)  
+#### MALE SLICER EFFECT ON DASHBOARD
 ![Male Slicer](images/maleSlicer.png)  
 
 ---
