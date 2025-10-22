@@ -58,6 +58,7 @@ It seeks to understand how digital habits influence overall wellbeing and learni
 
 ### Q1. Which social media platforms affect academics the most?  
 Instagram usage shows the strongest negative impact on academic performance (172 “Yes” responses), followed by TikTok (144 “Yes”).  
+<h3 style = "text-align:center;">Platform Effect</h3>
 ![Platforms Effect](images/platform-effetcs.png)  
 
 ---
@@ -84,7 +85,7 @@ FORMAT(
 - Single students exhibit the highest addiction levels (6.60), while those in relationships report slightly lower scores (6.04).  
 - WhatsApp users have the highest average addiction score (7.42).  
 
-<p style = "text-align:center;">#### DASHBOARD IMAGE</p>
+#### DASHBOARD IMAGE
 ![Dashboard](images/dashboard.png)  
 ---
 
